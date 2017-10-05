@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'DESKTOP-67O6F0F\MSSQLSERVER13',
-	'username' => '',
-	'password' => '',
+	'hostname' => 'frosty.database.windows.net',
+	'username' => 'frosty',
+	'password' => 'Namikaze1994',
 	'database' => 'DDAC',
 	'dbdriver' => 'sqlsrv',
 	'dbprefix' => '',
