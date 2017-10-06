@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'frosty.database.windows.net',
+	'hostname' => 'tcp:frosty.database.windows.net,1433',
 	'username' => 'frosty',
 	'password' => 'Namikaze1994',
 	'database' => 'DDAC',
