@@ -3,7 +3,7 @@
 			<div class="container_12">
 				<div class="prefix_4">
 				<div class="grid_6">
-					<h3>||[ Login ]||</h3>
+					<h3> LOGIN </h3>
 						<?php $data = array('id'=>'bookingForm');
 						echo form_open('Login/validate_credentials', $data); ?>
 						<div class="fl1">
