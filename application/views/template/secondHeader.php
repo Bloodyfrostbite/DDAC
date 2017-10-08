@@ -5,10 +5,10 @@
 					<div class="menu_block">
 						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
 							<ul class="sf-menu">
-								<li><a href="<?php echo site_url('login/home') ?>">HOME</a></li>
-								<li><a href="<?php echo site_url('login/offers') ?>">SPECIAL OFFERS</a></li>
+								<li><a href="<?php echo site_url('login/home') ?>">BOOKINGS</a></li>
+								<li><a href="<?php echo site_url('login/offers') ?>">HOT OFFERS</a></li>
 								<li><a href="<?php echo site_url('login/contact') ?>">CONTACT US</a></li>
-								<li><a href="<?php echo site_url('login/profile') ?>">PROFILE</a></li>
+								<li><a href="<?php echo site_url('login/profile') ?>">User PROFILE</a></li>
 								<li><a href="<?php echo site_url('login/Promotion') ?>">Travel</a></li>
 							</ul>
 						</nav>
